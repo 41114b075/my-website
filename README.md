@@ -23,7 +23,7 @@
   <h1>你好，我是徐瑋澤</h1>
   <p>歡迎來到我的個人網站！</p>
   <p>這裡是我展示自己、分享想法與作品的地方。</p>
-  <p>聯絡我：41114b075@gms.ndhu.edu.tw</p>
+  <p>聯絡我：mailto:41114b075@gms.ndhu.edu.tw41114b075@gms.ndhu.edu.tw</a></p>
 </body>
 </html>
 
